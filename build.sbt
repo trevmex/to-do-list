@@ -13,7 +13,7 @@ libraryDependencies ++= Seq(
   specs2 % Test,
   evolutions,
   "com.typesafe.play" %% "anorm" % "2.4.0",
-  "postgresql" % "postgresql" % "8.4-702.jdbc4"
+  "org.postgresql" % "postgresql" % "9.4-1201-jdbc41"
 )
 
 resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
