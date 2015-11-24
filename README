@@ -1,4 +1,7 @@
-This is your new Play application
-=================================
+This is a sample To Do List Play application
+============================================
 
-This file will be packaged with your application, when using `activator dist`.
+This is a 2.4.4 version of the ScalaTodoList originally designed for Play 2.0.4
+(see https://www.playframework.com/documentation/2.0.4/ScalaTodoList).
+
+The sample app can be found running at https://trevmex-to-do-list.herokuapp.com/
